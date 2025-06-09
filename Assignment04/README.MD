@@ -29,7 +29,7 @@ What problem the business is solving
 What data entities are critical for its operation and why
 Example: In an e-commerce platform, Orders, Customers, and Products are critical entities. You should be able to explain what KPIs this data supports (e.g., top-selling products, customer lifetime value).
 
-### Additional points (_for 2 points_):
+### Additional points (_for 3 points_):
 | # | Task                                                            | Points |
 | - | --------------------------------------------------------------- | ------ |
 | 1 | Create at least **3 different users** with different privileges | +1     |
@@ -125,7 +125,7 @@ erDiagram
     INSTRUCTORS ||--o{ SCHEDULE: "teaches"
     LESSONS_SCHEDULE ||--o{ SCHEDULE: "is scheduled for"
     ROOMS ||--o{ SCHEDULE: "takes place in"
-```
+``` 
 
 ##  ❓ 10 Questions About Database Modeling
 1. What is the difference between OLTP and OLAP systems? Why is your solution OLTP? 
