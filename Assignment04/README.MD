@@ -11,13 +11,13 @@ You can work alone or in teams of up to 3 people. If working in a team, a joint 
 ### Basic requirements (_for 15 points_):
 
 | # | Requirement                                                                                   | Points |
-| - | --------------------------------------------------------------------------------------------- | ------ |
+| - | --------------------------------------------------------------------------------------------- |--------|
 | 1 | Build your own **operational database** for a business use case of your choice                | 2      |
 | 2 | Use **entity relationships** (1:1, 1\:many, many\:many) appropriately                         | 2      |
 | 3 | Implement **constraints**: `NOT NULL`, `UNIQUE`, `CHECK`, `FOREIGN KEY`, etc.                 | 2      |
 | 4 | Use **indexes** for optimization (insert \~500,000 rows into at least one or more key tables) | 3      |
 | 5 | Add **comments** on tables and their columns for documentation                                | 1      |
-| 6 | Present an **ERD (Entity-Relationship Diagram)**                                              | 2      |
+| 6 | Present an **ERD (Entity-Relationship Diagram)**                                              | 1      |
 | 7 | Explain your solution using correct **database terminology**                                  | 2      |
 | 8 | Demonstrate **good business understanding** of the domain and data                            | 2      |
 
